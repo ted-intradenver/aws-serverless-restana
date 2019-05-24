@@ -1,0 +1,18 @@
+{
+  "name": "myservicerestana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "performance-now": "^2.1.0",
+    "restana": "^2.7.0",
+    "serverless-http": "^1.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
